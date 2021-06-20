@@ -48,5 +48,5 @@ function Miner(x,y,z)
     end
 end
 
-Miner(2,2,2)
+Miner(2,2,2) --change this for x,y,z (y=is height) x,z is length/width
 
